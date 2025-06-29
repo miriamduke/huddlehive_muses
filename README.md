@@ -21,4 +21,5 @@ Team members
 - Miriam Duke
 - Jocelyn Soto
 - Eleni Salamouri
--
+- Sofia Bargues
+- Anastasiia Sokolova
